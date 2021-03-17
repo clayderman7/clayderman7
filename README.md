@@ -2,8 +2,7 @@
 - 👀 I’m interested in programing languaje C# and c/c++ with Arduino.
 - 🌱 I’m currently learning programing with both languaje.
 - 💞️ I’m looking to collaborate on C# projects and Arduino.
-- 📫 How to reach me ...
--     Email: clayderman7@hotmail.com
+- 📫 How to reach me ...    
 -     FaceBook: www.facebook.com/clayderman.ortegarodriguez/
 
 <!---
