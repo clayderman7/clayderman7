@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @clayderman7
-- 👀 I’m interested in programing languaje C# and c/c++ with Arduino.
+- 👀 I’m interested in programing with c/c++ with Arduino and flutter.
 - 🌱 I’m currently learning programing with both languaje.
 - 💞️ I’m looking to collaborate on C# projects and Arduino.
 - 📫 How to reach me ...    
